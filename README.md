@@ -1,3 +1,4 @@
 # CryptoTicker-services
 
-Run server with npm start
+Run server with "npm start"
+
